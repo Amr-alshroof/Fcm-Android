@@ -8,37 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:607513766055:android:5920de3503a2d18c",
-        "android_client_info": {
-          "package_name": "com.google.firebase.quickstart.fcm"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "607513766055-vdg2pejt6dqg0vai4lsrttk0t4ngj5hl.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAl5FEDTNIk73Q8i79si6OsB2pfn3B4RAs"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:607513766055:android:61085e62b016361a",
         "android_client_info": {
           "package_name": "testing.fcm"
